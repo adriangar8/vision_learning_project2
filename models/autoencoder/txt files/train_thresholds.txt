@@ -1,0 +1,10 @@
+B22-65,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-65_1/,1
+B22-222,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-222_1/,1
+B22-130,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-130_1/,1
+B22-225,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-225_1/,1
+B22-263,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-263_1/,1
+B22-282,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-282_1/,0
+B22-168,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-168_1/,0
+B22-227,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-227_1/,0
+B22-111,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-111_1/,0
+B22-189,/fhome/mapsiv/QuironHelico/CroppedPatches/B22-189_1/,0
